@@ -1,2 +1,4 @@
 This is my first commit on master
 Change 2 on the master branch
+Change 2 on MyBranch
+
